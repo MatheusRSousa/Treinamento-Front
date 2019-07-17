@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html long="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="vierport" content="width=device-width, inicial-scale=">
+        <link rel="stylesheet" href="css/estilo.css">
+        <title>Facisa</title>
+    </head>
+    <body background="img/backgroundSvg.svg" >
+        <script src="js/logica.js"></script>
+        <div id="fundoMenu">
+            <div class="links">
+                <a id="loja" href="tela-loja.html" >LOJA</a>
+                <a id="contato" href="">CONTATO</a>
+                <a id="jogos" href="">JOGOS</a>
+                <a id="entrar" href="">ENTRAR</a>
+            </div>
+        </div>
+        
+        <div id="fundoCadastro">
+            <img src="img/basqueteLOGO.png" alt="basqueteLOGO" id="logo">
+            <div class="formulario">
+                
+                <h3>Nome:</h3>
+                <input type="text" name="nome" id="nome">
+                <h3>Email:</h3>
+                <input type="email" name="email" id="email">
+                <h3>CPF:</h3>
+                <input type="number" name="cpf" id="cpf">
+                <h3>Senha:</h3>
+                <input type="password" name="senha" id="senha" placeholder="Min. 5 characteres">
+                <h3>Digite novamente sua senha:</h3>
+                <input type="password" name="re-senha" id="re-senha" placeholder="Min. 5 characteres">
+                <button type="button" onclick="return validacao()">Criar sua conta</button><br>
+                <label id="msg"></label><br><br>
+            </div>
+        </div>
+        <div id="fundoTexto">
+        <h2 class="texto1">JACK TE CONVIDA</h2>
+    
+        <h2 class="texto2">PARA CONHECER O SITE</h2>
+    
+        <h2 class="texto1">DE BASQUETE DA FACISA</h2>
+            
+        <img src="img/jackAlerta.svg" alt="jackAlerta" width="400px" id="jackAlerta">
+        </div>
+
+    </body>
+
+</html>

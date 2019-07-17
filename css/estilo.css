@@ -1,0 +1,192 @@
+#txtCarrinho{
+    background: white;
+    color: black;
+    font-size: 90%;
+    margin-left: 15px;
+}
+#precoCarrinho{
+    background: white;
+    color: black;
+    margin-top: -15px;
+    margin-left: 15px;
+    font-size: 200%;
+}
+body{
+    background-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#logo{
+    margin-top: -100px;
+    opacity: 1;
+}
+#logo2{
+    width: 70px;
+    float: left;
+    margin-top: -40px;
+}
+hr{
+    float: left;
+}
+.produtos1{
+    float: left;
+    background: gainsboro;
+    width: 960px;
+    margin-top: 50px;
+    
+}
+#carrinhoLaranja{
+    float: left;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+#fundoCarrinho{
+    background-color: white;
+    padding: -10px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+#fundoProdutos{
+    margin-left: 200px;
+}
+.produtos2{
+    float: left;
+    background: gainsboro;
+    width: 960px;
+    margin-top: 50px;
+    
+}
+h1{
+    font-size: 150%;
+}
+.imgProduto{
+    float: left;
+    padding: 20px;
+    margin-top: -23px;
+    margin-block-end: -23px;
+}
+#carrinhoBranco{
+    width: 30px;
+    float: right
+}
+label{
+    font-weight: 400;
+    color: white;
+    font-size: 150%;
+    margin-top: -35px;
+    position: absolute;
+    background: #F87F2F;
+    width: 200px;
+}
+.img{
+    width: 200px;
+}
+#textoMenuLoja{
+    color: white;
+    float: none;
+}
+#fundoCadastro{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 200px;
+    border-radius: 10px;
+    width: 600px;
+    float: right;
+}
+#fundoMenuLoja{
+    background-color: rgba(000,000,000, 0.2);
+    background-image: linear-gradient(to bottom, black, transparent);
+    padding: 50px;
+    margin: -10px;
+}
+#fundoMenu{
+    background-color: rgba(000,000,000, 0.2);
+    background-image: linear-gradient(to bottom, black, transparent);
+    padding: 50px;
+    margin: -10px;
+}
+button{
+    border-radius: 10px;
+    background-color: #F87F2F;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+.links{
+    float: right;
+    margin: -10px;
+}
+#linksLoja{
+    float: right;
+    margin: -10px;
+}
+
+#loja{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.formulario {
+    margin-top: 0px;
+    width: 600px;
+    float: right;
+    opacity: 1;
+}
+h3{
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-block-end: 5px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin-left: 20px;
+}
+button{
+    top: 100; 
+    margin-left: 100px;
+    margin-block-end: 5px;
+    width: 67.5%;
+    height: 30px;
+    top: 100px;
+}
+#re-senha{
+    margin-block-end: 25px;
+}
+#jackAlerta{
+    float: left;
+}
+input{
+    top: 100; 
+    margin-left: 100px;
+    margin-block-end: 5px;
+    width: 67%;
+    height: 30px;
+}
+#fundoTexto{
+    margin-top: 80pxpx;
+    width: 300px;
+    float: left
+}
+.texto1{
+    width: 400px;
+    float: left;
+    height: 50px;
+    color: white;
+    background: #834EE1;
+}
+.texto2{
+    color: white;
+    width: 400px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: center;
+    background: #004F9E;
+}
+#entrar{
+    background-color: #F87F2F;
+    border-radius: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
